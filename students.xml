@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<students>
+  <student>
+    <student_name>Alex Morgan</student_name>
+    <student_id>10001</student_id>
+    <programme>Computer Science</programme>
+    <year>1</year>
+    <module_id>CS101</module_id>
+    <module_name>Programming Fundamentals</module_name>
+    <faculty>Faculty of Computing</faculty>
+    <building>B1</building>
+    <room>R101</room>
+    <exam_mark>55</exam_mark>
+  </student>
+  <student>
+    <student_name>Alex Morgan</student_name>
+    <student_id>10001</student_id>
+    <programme>Computer Science</programme>
+    <year>1</year>
+    <module_id>CS102</module_id>
+    <module_name>Data and Databases</module_name>
+    <faculty>Faculty of Computing</faculty>
+    <building>B1</building>
+    <room>R102</room>
+    <exam_mark>68</exam_mark>
+  </student>
+  <student>
+    <student_name>Jamie Patel</student_name>
+    <student_id>10002</student_id>
+    <programme>Accounting and Finance</programme>
+    <year>1</year>
+    <module_id>FIN101</module_id>
+    <module_name>Introduction to Finance</module_name>
+    <faculty>Faculty of Business</faculty>
+    <building>B2</building>
+    <room>R201</room>
+    <exam_mark>62</exam_mark>
+  </student>
+  <student>
+    <student_name>Jamie Patel</student_name>
+    <student_id>10002</student_id>
+    <programme>Accounting and Finance</programme>
+    <year>1</year>
+    <module_id>ACC102</module_id>
+    <module_name>Financial Accounting</module_name>
+    <faculty>Faculty of Business</faculty>
+    <building>B2</building>
+    <room>R202</room>
+    <exam_mark>75</exam_mark>
+  </student>
+  <student>
+    <student_name>Taylor Reed</student_name>
+    <student_id>10003</student_id>
+    <programme>Data Science</programme>
+    <year>1</year>
+    <module_id>SCI101</module_id>
+    <module_name>Applied Mathematics</module_name>
+    <faculty>Faculty of Science</faculty>
+    <building>B3</building>
+    <room>R301</room>
+    <exam_mark>69</exam_mark>
+  </student>
+  <student>
+    <student_name>Taylor Reed</student_name>
+    <student_id>10003</student_id>
+    <programme>Data Science</programme>
+    <year>1</year>
+    <module_id>SCI102</module_id>
+    <module_name>Statistics</module_name>
+    <faculty>Faculty of Science</faculty>
+    <building>B3</building>
+    <room>R302</room>
+    <exam_mark>82</exam_mark>
+  </student>
+  <student>
+    <student_name>Samira Ali</student_name>
+    <student_id>10004</student_id>
+    <programme>Computer Science</programme>
+    <year>1</year>
+    <module_id>CS101</module_id>
+    <module_name>Programming Fundamentals</module_name>
+    <faculty>Faculty of Computing</faculty>
+    <building>B1</building>
+    <room>R101</room>
+    <exam_mark>76</exam_mark>
+  </student>
+  <student>
+    <student_name>Samira Ali</student_name>
+    <student_id>10004</student_id>
+    <programme>Computer Science</programme>
+    <year>1</year>
+    <module_id>CS102</module_id>
+    <module_name>Data and Databases</module_name>
+    <faculty>Faculty of Computing</faculty>
+    <building>B1</building>
+    <room>R102</room>
+    <exam_mark>89</exam_mark>
+  </student>
+  <student>
+    <student_name>Daniel Brooks</student_name>
+    <student_id>10005</student_id>
+    <programme>Accounting and Finance</programme>
+    <year>1</year>
+    <module_id>FIN101</module_id>
+    <module_name>Introduction to Finance</module_name>
+    <faculty>Faculty of Business</faculty>
+    <building>B2</building>
+    <room>R201</room>
+    <exam_mark>83</exam_mark>
+  </student>
+  <student>
+    <student_name>Daniel Brooks</student_name>
+    <student_id>10005</student_id>
+    <programme>Accounting and Finance</programme>
+    <year>1</year>
+    <module_id>ACC102</module_id>
+    <module_name>Financial Accounting</module_name>
+    <faculty>Faculty of Business</faculty>
+    <building>B2</building>
+    <room>R202</room>
+    <exam_mark>57</exam_mark>
+  </student>
+  <student>
+    <student_name>Nadia Clarke</student_name>
+    <student_id>10006</student_id>
+    <programme>Data Science</programme>
+    <year>1</year>
+    <module_id>SCI101</module_id>
+    <module_name>Applied Mathematics</module_name>
+    <faculty>Faculty of Science</faculty>
+    <building>B3</building>
+    <room>R301</room>
+    <exam_mark>90</exam_mark>
+  </student>
+  <student>
+    <student_name>Nadia Clarke</student_name>
+    <student_id>10006</student_id>
+    <programme>Data Science</programme>
+    <year>1</year>
+    <module_id>SCI102</module_id>
+    <module_name>Statistics</module_name>
+    <faculty>Faculty of Science</faculty>
+    <building>B3</building>
+    <room>R302</room>
+    <exam_mark>64</exam_mark>
+  </student>
+  <student>
+    <student_name>Oliver Hayes</student_name>
+    <student_id>10007</student_id>
+    <programme>Computer Science</programme>
+    <year>1</year>
+    <module_id>CS101</module_id>
+    <module_name>Programming Fundamentals</module_name>
+    <faculty>Faculty of Computing</faculty>
+    <building>B1</building>
+    <room>R101</room>
+    <exam_mark>58</exam_mark>
+  </student>
+  <student>
+    <student_name>Oliver Hayes</student_name>
+    <student_id>10007</student_id>
+    <programme>Computer Science</programme>
+    <year>1</year>
+    <module_id>CS102</module_id>
+    <module_name>Data and Databases</module_name>
+    <faculty>Faculty of Computing</faculty>
+    <building>B1</building>
+    <room>R102</room>
+    <exam_mark>71</exam_mark>
+  </student>
+  <student>
+    <student_name>Priya Shah</student_name>
+    <student_id>10008</student_id>
+    <programme>Accounting and Finance</programme>
+    <year>1</year>
+    <module_id>FIN101</module_id>
+    <module_name>Introduction to Finance</module_name>
+    <faculty>Faculty of Business</faculty>
+    <building>B2</building>
+    <room>R201</room>
+    <exam_mark>65</exam_mark>
+  </student>
+  <student>
+    <student_name>Priya Shah</student_name>
+    <student_id>10008</student_id>
+    <programme>Accounting and Finance</programme>
+    <year>1</year>
+    <module_id>ACC102</module_id>
+    <module_name>Financial Accounting</module_name>
+    <faculty>Faculty of Business</faculty>
+    <building>B2</building>
+    <room>R202</room>
+    <exam_mark>78</exam_mark>
+  </student>
+  <student>
+    <student_name>Amelia Woods</student_name>
+    <student_id>10009</student_id>
+    <programme>Data Science</programme>
+    <year>1</year>
+    <module_id>SCI101</module_id>
+    <module_name>Applied Mathematics</module_name>
+    <faculty>Faculty of Science</faculty>
+    <building>B3</building>
+    <room>R301</room>
+    <exam_mark>72</exam_mark>
+  </student>
+  <student>
+    <student_name>Amelia Woods</student_name>
+    <student_id>10009</student_id>
+    <programme>Data Science</programme>
+    <year>1</year>
+    <module_id>SCI102</module_id>
+    <module_name>Statistics</module_name>
+    <faculty>Faculty of Science</faculty>
+    <building>B3</building>
+    <room>R302</room>
+    <exam_mark>85</exam_mark>
+  </student>
+  <student>
+    <student_name>Ryan Cooper</student_name>
+    <student_id>10010</student_id>
+    <programme>Computer Science</programme>
+    <year>1</year>
+    <module_id>CS101</module_id>
+    <module_name>Programming Fundamentals</module_name>
+    <faculty>Faculty of Computing</faculty>
+    <building>B1</building>
+    <room>R101</room>
+    <exam_mark>79</exam_mark>
+  </student>
+  <student>
+    <student_name>Ryan Cooper</student_name>
+    <student_id>10010</student_id>
+    <programme>Computer Science</programme>
+    <year>1</year>
+    <module_id>CS102</module_id>
+    <module_name>Data and Databases</module_name>
+    <faculty>Faculty of Computing</faculty>
+    <building>B1</building>
+    <room>R102</room>
+    <exam_mark>92</exam_mark>
+  </student>
+  <student>
+    <student_name>Leila Grant</student_name>
+    <student_id>10011</student_id>
+    <programme>Accounting and Finance</programme>
+    <year>1</year>
+    <module_id>FIN101</module_id>
+    <module_name>Introduction to Finance</module_name>
+    <faculty>Faculty of Business</faculty>
+    <building>B2</building>
+    <room>R201</room>
+    <exam_mark>86</exam_mark>
+  </student>
+  <student>
+    <student_name>Leila Grant</student_name>
+    <student_id>10011</student_id>
+    <programme>Accounting and Finance</programme>
+    <year>1</year>
+    <module_id>ACC102</module_id>
+    <module_name>Financial Accounting</module_name>
+    <faculty>Faculty of Business</faculty>
+    <building>B2</building>
+    <room>R202</room>
+    <exam_mark>60</exam_mark>
+  </student>
+  <student>
+    <student_name>Ethan Price</student_name>
+    <student_id>10012</student_id>
+    <programme>Data Science</programme>
+    <year>1</year>
+    <module_id>SCI101</module_id>
+    <module_name>Applied Mathematics</module_name>
+    <faculty>Faculty of Science</faculty>
+    <building>B3</building>
+    <room>R301</room>
+    <exam_mark>93</exam_mark>
+  </student>
+  <student>
+    <student_name>Ethan Price</student_name>
+    <student_id>10012</student_id>
+    <programme>Data Science</programme>
+    <year>1</year>
+    <module_id>SCI102</module_id>
+    <module_name>Statistics</module_name>
+    <faculty>Faculty of Science</faculty>
+    <building>B3</building>
+    <room>R302</room>
+    <exam_mark>67</exam_mark>
+  </student>
+  <student>
+    <student_name>Maya Collins</student_name>
+    <student_id>10013</student_id>
+    <programme>Computer Science</programme>
+    <year>2</year>
+    <module_id>CS201</module_id>
+    <module_name>Software Engineering</module_name>
+    <faculty>Faculty of Computing</faculty>
+    <building>B1</building>
+    <room>R103</room>
+    <exam_mark>61</exam_mark>
+  </student>
+  <student>
+    <student_name>Maya Collins</student_name>
+    <student_id>10013</student_id>
+    <programme>Computer Science</programme>
+    <year>2</year>
+    <module_id>CS102</module_id>
+    <module_name>Data and Databases</module_name>
+    <faculty>Faculty of Computing</faculty>
+    <building>B1</building>
+    <room>R102</room>
+    <exam_mark>74</exam_mark>
+  </student>
+  <student>
+    <student_name>Noah Bennett</student_name>
+    <student_id>10014</student_id>
+    <programme>Accounting and Finance</programme>
+    <year>2</year>
+    <module_id>FIN101</module_id>
+    <module_name>Introduction to Finance</module_name>
+    <faculty>Faculty of Business</faculty>
+    <building>B2</building>
+    <room>R201</room>
+    <exam_mark>68</exam_mark>
+  </student>
+  <student>
+    <student_name>Noah Bennett</student_name>
+    <student_id>10014</student_id>
+    <programme>Accounting and Finance</programme>
+    <year>2</year>
+    <module_id>ACC102</module_id>
+    <module_name>Financial Accounting</module_name>
+    <faculty>Faculty of Business</faculty>
+    <building>B2</building>
+    <room>R202</room>
+    <exam_mark>81</exam_mark>
+  </student>
+  <student>
+    <student_name>Sofia Hughes</student_name>
+    <student_id>10015</student_id>
+    <programme>Data Science</programme>
+    <year>2</year>
+    <module_id>SCI101</module_id>
+    <module_name>Applied Mathematics</module_name>
+    <faculty>Faculty of Science</faculty>
+    <building>B3</building>
+    <room>R301</room>
+    <exam_mark>75</exam_mark>
+  </student>
+  <student>
+    <student_name>Sofia Hughes</student_name>
+    <student_id>10015</student_id>
+    <programme>Data Science</programme>
+    <year>2</year>
+    <module_id>SCI102</module_id>
+    <module_name>Statistics</module_name>
+    <faculty>Faculty of Science</faculty>
+    <building>B3</building>
+    <room>R302</room>
+    <exam_mark>88</exam_mark>
+  </student>
+  <student>
+    <student_name>Adam Foster</student_name>
+    <student_id>10016</student_id>
+    <programme>Computer Science</programme>
+    <year>2</year>
+    <module_id>CS201</module_id>
+    <module_name>Software Engineering</module_name>
+    <faculty>Faculty of Computing</faculty>
+    <building>B1</building>
+    <room>R103</room>
+    <exam_mark>82</exam_mark>
+  </student>
+  <student>
+    <student_name>Adam Foster</student_name>
+    <student_id>10016</student_id>
+    <programme>Computer Science</programme>
+    <year>2</year>
+    <module_id>CS102</module_id>
+    <module_name>Data and Databases</module_name>
+    <faculty>Faculty of Computing</faculty>
+    <building>B1</building>
+    <room>R102</room>
+    <exam_mark>56</exam_mark>
+  </student>
+  <student>
+    <student_name>Zara Mitchell</student_name>
+    <student_id>10017</student_id>
+    <programme>Accounting and Finance</programme>
+    <year>2</year>
+    <module_id>FIN101</module_id>
+    <module_name>Introduction to Finance</module_name>
+    <faculty>Faculty of Business</faculty>
+    <building>B2</building>
+    <room>R201</room>
+    <exam_mark>89</exam_mark>
+  </student>
+  <student>
+    <student_name>Zara Mitchell</student_name>
+    <student_id>10017</student_id>
+    <programme>Accounting and Finance</programme>
+    <year>2</year>
+    <module_id>ACC102</module_id>
+    <module_name>Financial Accounting</module_name>
+    <faculty>Faculty of Business</faculty>
+    <building>B2</building>
+    <room>R202</room>
+    <exam_mark>63</exam_mark>
+  </student>
+  <student>
+    <student_name>Leo Turner</student_name>
+    <student_id>10018</student_id>
+    <programme>Data Science</programme>
+    <year>2</year>
+    <module_id>SCI101</module_id>
+    <module_name>Applied Mathematics</module_name>
+    <faculty>Faculty of Science</faculty>
+    <building>B3</building>
+    <room>R301</room>
+    <exam_mark>57</exam_mark>
+  </student>
+  <student>
+    <student_name>Leo Turner</student_name>
+    <student_id>10018</student_id>
+    <programme>Data Science</programme>
+    <year>2</year>
+    <module_id>SCI102</module_id>
+    <module_name>Statistics</module_name>
+    <faculty>Faculty of Science</faculty>
+    <building>B3</building>
+    <room>R302</room>
+    <exam_mark>70</exam_mark>
+  </student>
+</students>

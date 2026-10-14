@@ -1,0 +1,37 @@
+student_name,student_id,programme,year,module_id,module_name,faculty,building,room,exam_mark
+Alex Morgan,10001,Computer Science,1,CS101,Programming Fundamentals,Faculty of Computing,B1,R101,55
+Alex Morgan,10001,Computer Science,1,CS102,Data and Databases,Faculty of Computing,B1,R102,68
+Jamie Patel,10002,Accounting and Finance,1,FIN101,Introduction to Finance,Faculty of Business,B2,R201,62
+Jamie Patel,10002,Accounting and Finance,1,ACC102,Financial Accounting,Faculty of Business,B2,R202,75
+Taylor Reed,10003,Data Science,1,SCI101,Applied Mathematics,Faculty of Science,B3,R301,69
+Taylor Reed,10003,Data Science,1,SCI102,Statistics,Faculty of Science,B3,R302,82
+Samira Ali,10004,Computer Science,1,CS101,Programming Fundamentals,Faculty of Computing,B1,R101,76
+Samira Ali,10004,Computer Science,1,CS102,Data and Databases,Faculty of Computing,B1,R102,89
+Daniel Brooks,10005,Accounting and Finance,1,FIN101,Introduction to Finance,Faculty of Business,B2,R201,83
+Daniel Brooks,10005,Accounting and Finance,1,ACC102,Financial Accounting,Faculty of Business,B2,R202,57
+Nadia Clarke,10006,Data Science,1,SCI101,Applied Mathematics,Faculty of Science,B3,R301,90
+Nadia Clarke,10006,Data Science,1,SCI102,Statistics,Faculty of Science,B3,R302,64
+Oliver Hayes,10007,Computer Science,1,CS101,Programming Fundamentals,Faculty of Computing,B1,R101,58
+Oliver Hayes,10007,Computer Science,1,CS102,Data and Databases,Faculty of Computing,B1,R102,71
+Priya Shah,10008,Accounting and Finance,1,FIN101,Introduction to Finance,Faculty of Business,B2,R201,65
+Priya Shah,10008,Accounting and Finance,1,ACC102,Financial Accounting,Faculty of Business,B2,R202,78
+Amelia Woods,10009,Data Science,1,SCI101,Applied Mathematics,Faculty of Science,B3,R301,72
+Amelia Woods,10009,Data Science,1,SCI102,Statistics,Faculty of Science,B3,R302,85
+Ryan Cooper,10010,Computer Science,1,CS101,Programming Fundamentals,Faculty of Computing,B1,R101,79
+Ryan Cooper,10010,Computer Science,1,CS102,Data and Databases,Faculty of Computing,B1,R102,92
+Leila Grant,10011,Accounting and Finance,1,FIN101,Introduction to Finance,Faculty of Business,B2,R201,86
+Leila Grant,10011,Accounting and Finance,1,ACC102,Financial Accounting,Faculty of Business,B2,R202,60
+Ethan Price,10012,Data Science,1,SCI101,Applied Mathematics,Faculty of Science,B3,R301,93
+Ethan Price,10012,Data Science,1,SCI102,Statistics,Faculty of Science,B3,R302,67
+Maya Collins,10013,Computer Science,2,CS201,Software Engineering,Faculty of Computing,B1,R103,61
+Maya Collins,10013,Computer Science,2,CS102,Data and Databases,Faculty of Computing,B1,R102,74
+Noah Bennett,10014,Accounting and Finance,2,FIN101,Introduction to Finance,Faculty of Business,B2,R201,68
+Noah Bennett,10014,Accounting and Finance,2,ACC102,Financial Accounting,Faculty of Business,B2,R202,81
+Sofia Hughes,10015,Data Science,2,SCI101,Applied Mathematics,Faculty of Science,B3,R301,75
+Sofia Hughes,10015,Data Science,2,SCI102,Statistics,Faculty of Science,B3,R302,88
+Adam Foster,10016,Computer Science,2,CS201,Software Engineering,Faculty of Computing,B1,R103,82
+Adam Foster,10016,Computer Science,2,CS102,Data and Databases,Faculty of Computing,B1,R102,56
+Zara Mitchell,10017,Accounting and Finance,2,FIN101,Introduction to Finance,Faculty of Business,B2,R201,89
+Zara Mitchell,10017,Accounting and Finance,2,ACC102,Financial Accounting,Faculty of Business,B2,R202,63
+Leo Turner,10018,Data Science,2,SCI101,Applied Mathematics,Faculty of Science,B3,R301,57
+Leo Turner,10018,Data Science,2,SCI102,Statistics,Faculty of Science,B3,R302,70

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<faculties>
+  <faculty>
+    <faculty>Faculty of Computing</faculty>
+    <building>B1</building>
+    <room>R101</room>
+    <capacity>80</capacity>
+  </faculty>
+  <faculty>
+    <faculty>Faculty of Computing</faculty>
+    <building>B1</building>
+    <room>R102</room>
+    <capacity>120</capacity>
+  </faculty>
+  <faculty>
+    <faculty>Faculty of Computing</faculty>
+    <building>B1</building>
+    <room>R103</room>
+    <capacity>60</capacity>
+  </faculty>
+  <faculty>
+    <faculty>Faculty of Business</faculty>
+    <building>B2</building>
+    <room>R201</room>
+    <capacity>90</capacity>
+  </faculty>
+  <faculty>
+    <faculty>Faculty of Business</faculty>
+    <building>B2</building>
+    <room>R202</room>
+    <capacity>75</capacity>
+  </faculty>
+  <faculty>
+    <faculty>Faculty of Business</faculty>
+    <building>B2</building>
+    <room>R203</room>
+    <capacity>110</capacity>
+  </faculty>
+  <faculty>
+    <faculty>Faculty of Science</faculty>
+    <building>B3</building>
+    <room>R301</room>
+    <capacity>100</capacity>
+  </faculty>
+  <faculty>
+    <faculty>Faculty of Science</faculty>
+    <building>B3</building>
+    <room>R302</room>
+    <capacity>65</capacity>
+  </faculty>
+  <faculty>
+    <faculty>Faculty of Science</faculty>
+    <building>B3</building>
+    <room>R303</room>
+    <capacity>95</capacity>
+  </faculty>
+  <faculty>
+    <faculty>Faculty of Science</faculty>
+    <building>B3</building>
+    <room>R304</room>
+    <capacity>55</capacity>
+  </faculty>
+</faculties>
